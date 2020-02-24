@@ -53,6 +53,20 @@ hr {
 .pull-right {
   float: right;
 }
+.navbarLink {
+  color: $black-color;
+
+  padding-bottom: .05em;
+  border-bottom: 2px solid transparent;
+
+  @include transition(border 300ms linear);
+  
+  &:hover,
+  &:focus,
+  &:active {
+    border-bottom: 2px solid $blue-color;
+  }
+}
 
 .link {
   color: $blue-color;
@@ -122,7 +136,7 @@ hr {
   }
 
   a {
-    @extend .link;
+    @extend .navbarLink;
   }
 }
 

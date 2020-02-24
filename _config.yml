@@ -11,8 +11,7 @@ google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
-
+postshare_enabled : true
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
@@ -28,7 +27,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Michał Bednarek"
 
 plugins:
   - jekyll-sitemap

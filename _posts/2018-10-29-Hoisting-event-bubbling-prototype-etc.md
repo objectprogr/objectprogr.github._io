@@ -4,7 +4,7 @@ title: "Day 6 - JavaScript - hoisting, event bubbling, prototype etc."
 date:   2018-10-29 14:00:00
 excerpt: "That's mean that JS engine moves all variables to beginning of the lexical scope."
 paermalink: /2018/10/day-6-javascript-hoisting-event-bubbling-prototype.html
-tags: oldBlog
+tags: oldblog
 --- 
 
 #### Hoisting

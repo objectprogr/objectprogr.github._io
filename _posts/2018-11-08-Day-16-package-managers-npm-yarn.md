@@ -4,7 +4,7 @@ title:  "Day 16 - Package managers - npm and Yarn"
 date:   2018-11-08 13:00:00
 excerpt: "A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a computer's operating system."
 paermalink: /2018/11/day-16-package-managers-npm-yarn.html
-tags: oldBlog
+tags: oldblog
 --- 
 
 ### What it's package managers?

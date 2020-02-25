@@ -4,7 +4,7 @@ title:  "Day 17 - Semantic versionig"
 date:   2018-11-09 13:00:00
 excerpt: "Versioning our apps helps us keep track of what’s been added/removed at what point. SemVer (Semantic versioning) is a 3-component system in the format of `x.y.z` where:"
 paermalink: /2018/11/day-17-semantic-versioning.html
-tags: oldBlog
+tags: oldblog
 --- 
 
 #### What it is semantic versioning?

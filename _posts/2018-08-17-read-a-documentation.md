@@ -3,12 +3,8 @@ layout: post
 title: "Read documentation"
 excerpt: "I often started from writing code without reading documentation, because I'm impatient and I know about it ;)"
 paermalink: /2018/08/read-a-documentation.html
-tags:
-    - oldBlog
-published: true
-toc: true
-toc_label: "Table of content"
-toc_icon: "code"
+tags: 
+    - test
 ---
 
 ## Why worth it start from reading documentation?

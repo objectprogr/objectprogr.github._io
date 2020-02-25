@@ -41,4 +41,11 @@ navbar:
   - slug : blog
     title: Blog
 
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+tag_page_layout: tags_page
+tag_page_dir: tags
+
+
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor"]

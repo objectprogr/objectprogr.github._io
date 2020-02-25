@@ -4,12 +4,7 @@ title: "Day 3 - Media querie and responsive websites"
 date:   2018-10-26 11:00:00
 excerpt: "With the help of media queries we can define diffrent style adapted to diffrent devices ( ex. computer, tablet, phone, smartwatch) using values ex. width, height."
 paermalink: /2018/10/day-3-media-querie-and-responsive-website.html
-tags:
-    - oldBlog
-published: true
-toc: true
-toc_label: "Table of content"
-toc_icon: "code"
+tags: oldBlog
 --- 
 
 #### Media queries

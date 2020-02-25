@@ -3,12 +3,7 @@ layout: post
 title: "Day 2 - CSS Grid and Flexbox"
 excerpt: "Grid is for multi-dimensional layouts (columns and rows)."
 paermalink: /2018/10/day-2-css-grid-and-flexbox.html
-tags:
-    - oldBlog
-published: true
-toc: true
-toc_label: "Table of content"
-toc_icon: "code"
+tags: oldBlog
 ---
 
 

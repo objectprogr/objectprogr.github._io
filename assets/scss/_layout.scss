@@ -117,7 +117,37 @@ hr {
 .logoDot {
   color: #ffa000;
 }
-
+.priority{
+  color: orange;
+}
+.todo{
+  color: red;
+}
+.done{
+  color: green;
+}
+.doneList{
+  margin-left: 4.4em;
+  margin-bottom: 0rem;
+}
+.todoContainer{
+  font-family: monospace;
+  font-size: 1.3em;
+}
+.outline-3{
+    padding-left: 0.5em;
+    border-left-width: 3px;
+    border-left-style: dotted;
+    border-left-color: transparent;
+  
+}
+.outline-3:hover {
+  border-left-color: #ccc;
+}
+.idSymbol{
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
 .logo {
   float: left;
   margin: 0 0 1em 0;

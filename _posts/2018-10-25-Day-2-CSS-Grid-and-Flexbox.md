@@ -4,6 +4,7 @@ title: "Day 2 - CSS Grid and Flexbox"
 excerpt: "Grid is for multi-dimensional layouts (columns and rows)."
 paermalink: /2018/10/day-2-css-grid-and-flexbox.html
 tags: oldblog
+categories: homepage
 ---
 
 

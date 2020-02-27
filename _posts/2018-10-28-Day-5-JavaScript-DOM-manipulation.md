@@ -5,6 +5,7 @@ date:   2018-10-28 11:00:00
 excerpt: "The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content."
 paermalink: /2018/10/day-5-javascript-dom-manipulate.html
 tags: oldblog javascript
+categories: homepage
 --- 
 
 #### What is the DOM?

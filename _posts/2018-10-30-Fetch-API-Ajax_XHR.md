@@ -5,6 +5,7 @@ date:   2018-10-30 14:00:00
 excerpt: "This is interface which allows to asynchronous download of resources from server. Early to this we use object XMLHttpRequest (XHR). Fetch API was created for simplify communication with server. "
 paermalink: /2018/10/day-7-fetch-api-ajax.html
 tags: oldblog javascript
+categories: homepage
 --- 
 
 #### Fetch API

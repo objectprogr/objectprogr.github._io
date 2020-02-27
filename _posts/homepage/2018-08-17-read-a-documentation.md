@@ -4,6 +4,7 @@ title: "Read documentation"
 excerpt: "I often started from writing code without reading documentation, because I'm impatient and I know about it ;)"
 paermalink: /2018/08/read-a-documentation.html
 tags: oldblog
+categories: homepage
 ---
 
 ## Why worth it start from reading documentation?

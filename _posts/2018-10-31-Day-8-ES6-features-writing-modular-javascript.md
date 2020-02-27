@@ -5,6 +5,7 @@ date:   2018-10-31 13:00:00
 excerpt: "Below i present the most important changes which provide ES6 (ECMAScript2015)."
 paermalink: /2018/10/day-8-es6-new-features-writing-modular-javascript.html
 tags: oldblog javascript
+categories: homepage
 --- 
 
 #### ES6 new features

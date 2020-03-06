@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "FortiGate alert about VPN connecyion"
+title: "FortiGate alert about VPN connecTion"
 excerpt: "FortiGate alert about VPN connecyion"
 paermalink: /2020/03/fortigate-alert-about-vpn-connection.html
-tags: powershell, fortigate, vpn
+tags: powershell fortigate vpn
 categories: homepage
 ---
 
-## FortiGate alert about VPN connection
 
 In our company We`ll needed start manage FortiGate logs. We decide that the first step will be detect in logs information about VPN connection/disconnecting and sending alert to email.
 
@@ -157,3 +156,4 @@ foreach($query in $query1){
 Last step is adding this script to windows task scheduler. We settings 5 minuts interval.
 
 # Examples
+![Report](/assets/images/report.png)

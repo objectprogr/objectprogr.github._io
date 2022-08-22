@@ -1,4 +1,5 @@
 # Site settings
+remote_theme  : "mmistakes/minimal-mistakes@4.24.0"
 title_left    : "learning"
 title_right   : "notes" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
